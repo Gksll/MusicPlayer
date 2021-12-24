@@ -1,0 +1,16 @@
+C:\Users\Red_Beard\source\repos\Music\Music\bin\Debug\Music.exe.config
+C:\Users\Red_Beard\source\repos\Music\Music\bin\Debug\Music.exe
+C:\Users\Red_Beard\source\repos\Music\Music\bin\Debug\Music.pdb
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Music.csproj.AssemblyReference.cache
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Music.csproj.SuggestedBindingRedirects.cache
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Music.Form1.resources
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Music.exe
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Music.pdb
+C:\Users\Red_Beard\source\repos\Music\Music\bin\Debug\Interop.WMPLib.dll
+C:\Users\Red_Beard\source\repos\Music\Music\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Interop.WMPLib.dll
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Red_Beard\source\repos\Music\Music\obj\Debug\Music.csproj.ResolveComReference.cache
